@@ -17,6 +17,7 @@ public class ClassA {
 	@Test(groups = "smoke")
 	public void demo3() {
 		System.out.println("From Demo 3");
+		System.out.println("Demo For Git hub");
 		
 	}
 
